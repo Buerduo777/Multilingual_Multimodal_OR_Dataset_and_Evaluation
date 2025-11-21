@@ -1,5 +1,5 @@
 # Building a Multilingual Dataset to Benchmark Over-Refusal in LLMs
-## USYD  Group CS62-2
+
 
 # Important Notes
 - The project is covered by a Non-Disclosure Agreement (NDA); implementation details must remain confidential per client requirements.
